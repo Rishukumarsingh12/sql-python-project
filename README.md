@@ -14,6 +14,8 @@ This project aims to analyze sales data to derive insights about product perform
 
 --`SQLQuery123.sql`: sql files which you can download and execute all the queries.
 
+--`SQL_Python.ipynb`: main notebook for all preprocessing tasks.
+
 --`orders.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
 
 --`final_data.csv`: Final dataset that we are going to import into our sql server.
