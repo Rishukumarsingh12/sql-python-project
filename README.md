@@ -15,3 +15,6 @@ This project aims to analyze sales data to derive insights about product perform
 --`SQLQuery123.sql`: sql files which you can download and execute all the queries.
 
 --`data.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
+
+## WorkFlow of this Data Analysis project
+![image](https://github.com/user-attachments/assets/6cbe18e1-f03f-484f-a9a8-bd092b4638fe)
