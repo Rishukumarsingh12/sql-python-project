@@ -16,6 +16,10 @@ This project aims to analyze sales data to derive insights about product perform
 
 --`data.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
 
+### let's have a glance on our dataset
+![image](https://github.com/user-attachments/assets/1c9a9595-b126-467c-9828-1f739a686b9b)
+
+
 ## WorkFlow of this Data Analysis project
 ![image](https://github.com/user-attachments/assets/6cbe18e1-f03f-484f-a9a8-bd092b4638fe)
 
@@ -24,11 +28,14 @@ The analysis provided significant insights into sales performance, regional tren
 
 ## Future Work
 Deep Dive Analysis: Perform more detailed analysis on specific product categories or regions.
+
 Visualization: Create interactive dashboards to visualize the data and trends.
+
 Predictive Analytics: Use machine learning models to predict future sales trends.
 
 ## Appendices
 SQL Queries: All the SQL queries used in the analysis.
+
 Data Schema: Description of the df_orders table and its columns.
 
 
