@@ -14,7 +14,9 @@ This project aims to analyze sales data to derive insights about product perform
 
 --`SQLQuery123.sql`: sql files which you can download and execute all the queries.
 
---`data.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
+--`orders.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
+
+--`final_data.csv`: Final dataset that we are going to import into our sql server.
 
 ### let's have a glance on our dataset
 ![image](https://github.com/user-attachments/assets/1c9a9595-b126-467c-9828-1f739a686b9b)
