@@ -11,3 +11,6 @@ This project aims to analyze sales data to derive insights about product perform
 3. Compare month-over-month sales growth for the years 2022 and 2023.
 4. Identify the month with the highest sales for each product category.
 5. Determine the sub-category with the highest growth in profit in 2023 compared to 2022.
+
+--`SQLQuery123.sql`: sql files which you can download and execute all the queries.
+
