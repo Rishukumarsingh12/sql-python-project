@@ -13,4 +13,5 @@ This project aims to analyze sales data to derive insights about product perform
 5. Determine the sub-category with the highest growth in profit in 2023 compared to 2022.
 
 --`SQLQuery123.sql`: sql files which you can download and execute all the queries.
---`data.excl`: Data file which we have downloaded it from kaggle. However , we are going to download the dataset with the help of kaggle API.
+
+--`data.csv`: Data file which we have downloaded it from kaggle. However, we are going to download the dataset with the help of kaggle API.
